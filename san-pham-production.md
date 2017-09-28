@@ -16,9 +16,21 @@ Kậthung tìm kiếm bên phải bảng danh sách sản phẩm, tìm theo các
 
 ![](/assets/12.png)
 
-Trang thêm mới sản phẩm
+Trang thêm mới sản phẩm với các mục:
+
+\(1\) Nhập tên sản phẩm: bắt buộc nhập và không được trùng với sản phẩm khác.
+
+\(2\) Nhập giá cho sản phẩm
+
+\(3\) Chọn đơn vị tiền tệ cho giá của sản phẩm
+
+\(4\) Chọn hình cho sản phẩm: có thể chọn nhiều hình upload
+
+\(5\) Chọn danh mục của hàng cho sản phẩm: những danh mục này sẽ do shop tạo
+
+\(6\) Chọn danh mục của chuỗi cho sản phẩm: những danh mục này sẽ do admin tạo
+
+\(7\) Nhập nội dung của sản phẩm
 
 ![](/assets/13.png)
-
-
 
