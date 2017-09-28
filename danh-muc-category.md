@@ -1,6 +1,6 @@
 ## II . Danh Mục - Category
 
-### 1 . Hiển Thị Danh Sách Các Danh Mục Đã Tạo - Trang List
+### 1 . Hiển Thị Danh Sách Các Danh Mục Đã Tạo - list category
 
 Danh sách những category đã tạo. bảng bao gồm những cột: hình ảnh, tên category, tên category cha, action\(sửa, xóa\)
 
@@ -51,6 +51,4 @@ Sau khi tới trang chỉnh sửa category thì chỉnh sửa nội dung categor
 Click chọn icon trash phía cuối mỗi category . Khi hiện ra popup thì chọn 'yes' để tiến hành xóa category
 
 ![](/assets/09.png)
-
-
 
