@@ -46,3 +46,11 @@ Sau khi tới trang chỉnh sửa category thì chỉnh sửa nội dung categor
 
 ![](/assets/08.png)
 
+### 4 . Xóa Danh Mục - Delete Category
+
+Click chọn icon trash phía cuối mỗi category . Khi hiện ra popup thì chọn 'yes' để tiến hành xóa category
+
+![](/assets/09.png)
+
+
+
