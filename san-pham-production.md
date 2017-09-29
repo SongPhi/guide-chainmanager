@@ -42,11 +42,15 @@ Trang thêm mới sản phẩm với các mục:
 
 \(12\) Thuế: sẽ do khách hàng tự nhập đơn vị là phần trăm và mặc định là 10
 
-\(13\) Chọn loại hạn sử dụng cho sản phẩm: có 3 option 
+\(13\) Chọn loại hạn sử dụng cho sản phẩm: có 3 option
 
-+ Không có hạn sử dụng
+* Không có hạn sử dụng
 
-+ Hạn sử dụng tính theo ngày: nhập số lượng ngày và tăng giảm bằng 2 button "+" và "-"
+* Hạn sử dụng tính theo ngày: nhập số lượng ngày và tăng giảm bằng 2 button "+" và "-"
+
+* Hạn sử dụng cố định: Chọn ngày bắt đầu và ngày kết thúc của hạn sử dụng
+
+\(14\) URL rút gọn: nếu không nhập thì sẽ lấy mặc định là tiêu đề
 
 ![](/assets/13.png)
 
