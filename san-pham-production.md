@@ -30,7 +30,23 @@ Trang thêm mới sản phẩm với các mục:
 
 \(6\) Chọn danh mục của chuỗi cho sản phẩm: những danh mục này sẽ do admin tạo
 
-\(7\) Nhập nội dung của sản phẩm
+\(7\) Nhập nội dung của sản phẩm.
+
+\(8\) Đơn vị lưu kho: bắt buộc phải nhập và không được trùng với các sản phẩm khác
+
+\(9\) Hãng sản xuất: hãng sản xuất của sản phẩm hoặc nhà phát hành, chọn theo danh sách hoặc thêm tên mới thì sẽ tự tạo mới trong danh sách hãng sản xuất. Có thể bỏ trống
+
+\(10\) Xuất xứ: Có thể bỏ trống
+
+\(11\) Số lượng sản phẩm trong kho: mặc định là 0
+
+\(12\) Thuế: sẽ do khách hàng tự nhập đơn vị là phần trăm và mặc định là 10
+
+\(13\) Chọn loại hạn sử dụng cho sản phẩm: có 3 option 
+
++ Không có hạn sử dụng
+
++ Hạn sử dụng tính theo ngày: nhập số lượng ngày và tăng giảm bằng 2 button "+" và "-"
 
 ![](/assets/13.png)
 
